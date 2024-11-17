@@ -438,6 +438,51 @@ main {
         padding: 3rem;
       }
   }
+
+  #view7-cntr{
+    // background-color: red;
+    padding: 4.3rem 2rem;
+    
+#view7{
+    display: flex;
+    padding: 0rem;
+    background-color: #042449;
+    border-radius: 50px;
+    justify-content: space-between;
+    // align-items: center;
+    overflow: hidden;
+
+    #left{
+        display: flex;
+        flex-direction: column;
+        padding: 4.3rem;
+        h3{
+            font-size: 3.4rem;
+            margin-bottom: 0.8rem;
+            color: #E8EAED;
+        }
+        p{
+            font-size: 1.5rem;
+            margin-bottom: 2rem;
+            color: #E8EAED;
+        }
+        // #btn-ctn{
+
+        // }
+    }
+
+    #right{
+        img{
+            width: 24rem;
+            // border-radius: 50px;
+        }
+        }
+       
+    
+ }
+
+}
+
 }
 
 footer {

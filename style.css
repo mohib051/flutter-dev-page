@@ -385,6 +385,35 @@ main .view8 #bottom {
   justify-content: end;
   padding: 3rem;
 }
+main #view7-cntr {
+  padding: 4.3rem 2rem;
+}
+main #view7-cntr #view7 {
+  display: flex;
+  padding: 0rem;
+  background-color: #042449;
+  border-radius: 50px;
+  justify-content: space-between;
+  overflow: hidden;
+}
+main #view7-cntr #view7 #left {
+  display: flex;
+  flex-direction: column;
+  padding: 4.3rem;
+}
+main #view7-cntr #view7 #left h3 {
+  font-size: 3.4rem;
+  margin-bottom: 0.8rem;
+  color: #E8EAED;
+}
+main #view7-cntr #view7 #left p {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+  color: #E8EAED;
+}
+main #view7-cntr #view7 #right img {
+  width: 24rem;
+}
 
 footer {
   background-color: #f8f9fa;
